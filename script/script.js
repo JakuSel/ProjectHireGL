@@ -25,7 +25,7 @@ function logValidation(){
       reset();  
         
     }
-  console.log($("#err").html("a"));
+  
 }
     
 function reset(){
